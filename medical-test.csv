@@ -1,0 +1,802 @@
+﻿Series_reference,Period,Type,Data_value,Lower_CI,Upper_CI,Units,Indicator,Cause,Validation,Population,Age,Severity
+M_F21B,2017,Single year,345,308.595284740305,381.404715259695,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious
+M_F21B,2018,Single year,372,334.197583657943,409.802416342057,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2000,Single year,34.6296591427214,29.7577172328463,39.5016010525966,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2001,Single year,32.2137394013747,27.5653152328574,36.8621635698921,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2002,Single year,30.4959500354121,26.0268708646331,34.9650292061912,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2003,Single year,32.6638637163101,28.0792965447898,37.2484308878304,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2004,Single year,27.015953036043,22.8927153701882,31.1391907018979,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2005,Single year,33.2520483231842,28.7066080112153,37.7974886351532,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2006,Single year,29.4458222231534,25.2045852913707,33.6870591549361,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2007,Single year,30.8300772999488,26.5644823057196,35.095672294178,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2008,Single year,32.7420147240006,28.4338095446665,37.0502199033346,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2009,Single year,27.7692654356013,23.8581976929188,31.6803331782838,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2010,Single year,32.1141377521741,27.9733860080265,36.2548894963216,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2011,Single year,31.5024802058458,27.4752918185384,35.5296685931533,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2012,Single year,32.7636005680641,28.6857039046407,36.8414972314874,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2013,Single year,37.5875482008178,33.220331606272,41.9547647953637,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2014,Single year,33.8102716976644,29.7353512543198,37.8851921410089,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2015,Single year,32.6595156132701,28.6876923235747,36.6313389029655,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2016,Single year,36.06175681234,32.0099493943868,40.1135642302933,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2017,Single year,38.3305245201937,34.1433865393487,42.5176625010387,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F22B,2018,Single year,40.7983902191244,36.487930603914,45.1088498343348,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious
+M_F01B,2000,Single year,182,155.558640251183,208.441359748816,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2001,Single year,177,150.924375151056,203.075624848943,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2002,Single year,167,141.671683375006,192.328316624993,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2003,Single year,182,155.558640251183,208.441359748816,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2004,Single year,151,126.915559339589,175.08444066041,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2005,Single year,194,166.700860614029,221.29913938597,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2006,Single year,173,147.220698691002,198.779301308997,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2007,Single year,191,163.912758819832,218.087241180167,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2008,Single year,213,184.395267370453,241.604732629546,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2009,Single year,184,157.413755003616,210.586244996383,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2010,Single year,218,189.061478563836,246.938521436163,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2011,Single year,230,200.275674460811,259.724325539188,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2012,Single year,242,211.510115864307,272.489884135692,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2013,Single year,284,250.970099832468,317.029900167532,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2014,Single year,263,231.214725581764,294.785274418235,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2015,Single year,267,234.973924606262,299.026075393737,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2016,Single year,311,276.435658645999,345.564341354,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2017,Single year,334,298.180351116854,369.819648883145,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2018,Single year,360,322.812298061726,397.187701938273,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2019,Single year,390,351.293812638407,428.706187361592,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F01B,2020,Single year,379,340.84357337167,417.156426628329,Injuries,Number,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2000,Single year,32.2633527962111,27.5650373991,36.9616681933222,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2001,Single year,30.7521100923169,26.2154129637087,35.2888072209251,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2002,Single year,28.4141267263323,24.1031203379405,32.7251331147241,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2003,Single year,30.4862728018894,26.0571601285086,34.9153854752703,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2004,Single year,24.7405857503747,20.7934310047924,28.6877404959569,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2005,Single year,31.3517532266207,26.9354901792503,35.768016273991,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2006,Single year,27.3938728434813,23.3025442659754,31.4852014209872,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2007,Single year,29.1813835001949,25.0295750517338,33.333191948656,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2008,Single year,31.2063509266403,26.9951116115157,35.4175902417649,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2009,Single year,26.1209640497388,22.3241308833434,29.9177972161341,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2010,Single year,29.891335088459,25.8899699757768,33.8927002011411,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2011,Single year,30.2477143429998,26.297419485019,34.1980092009807,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2012,Single year,31.1407330724522,27.161972940016,35.1194932048884,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2013,Single year,36.4715712619191,32.1603438301067,40.7827986937314,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2014,Single year,32.4326398540987,28.4374284063432,36.4278513018543,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2015,Single year,32.1149668809196,28.1671159692981,36.062817792541,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2016,Single year,34.965675401577,30.962358538319,38.968992264835,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2017,Single year,37.3205842938133,33.1783959366877,41.4627726509389,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2018,Single year,39.6840692459452,35.4235800148802,43.9445584770102,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2019,Single year,41.6453319412369,37.3330266304251,45.9576372520487,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+M_F02B,2020,Single year,37.1904609359441,33.2635373764994,41.1173844953888,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,0-74 years,Serious non-fatal
+C_I11,2000,Single year,108,87.6314567866289,128.368543213371,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2001,Single year,103,83.1085380494169,122.891461950583,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2002,Single year,107,86.7259748985488,127.274025101451,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2003,Single year,85,66.93002490984,103.069975090159,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2004,Single year,90,71.4061490308631,108.593850969136,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2005,Single year,93,74.0987918289715,111.901208171028,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2006,Single year,89,70.5097367503386,107.490263249661,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2007,Single year,103,83.1085380494169,122.891461950583,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2008,Single year,104,84.0122107937824,123.987789206217,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2009,Single year,107,86.7259748985488,127.274025101451,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2010,Single year,90,71.4061490308631,108.593850969136,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2011,Single year,79,61.5794590544714,96.4205409455285,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2012,Single year,77,59.8013858350898,94.1986141649101,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2013,Single year,60,44.81818425742,75.1818157425799,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2014,Single year,84,66.0366333629159,101.963366637084,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2015,Single year,87,68.7186729857926,105.281327014207,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2016,Single year,68,51.8377229386698,84.1622770613302,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2017,Single year,71,54.485049916234,87.514950083766,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I11,2018,Single year,53,38.7312468135163,67.2687531864837,Injuries,Number,All,Validated,Children,0-14 years,Fatal
+C_I12,2000,Single year,12.2802892485896,9.96284552462844,14.5977329725508,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2001,Single year,11.7348784779395,9.46824883135424,14.0015081245248,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2002,Single year,12.0996717172406,9.80702479925338,14.3923186352279,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2003,Single year,9.55507093235009,7.52377806491154,11.5863637997886,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2004,Single year,10.0613626046403,7.98267727760653,12.140047931674,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2005,Single year,10.4241223932546,8.30548811467445,12.5427566718349,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2006,Single year,9.9693246292698,7.89799285666366,12.0406564018759,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2007,Single year,11.3637812161602,9.1683996778785,13.5591627544419,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2008,Single year,11.3091020799678,9.13353539122381,13.4846687687118,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2009,Single year,11.5674710810185,9.37223969662198,13.7627024654151,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2010,Single year,9.48467272777824,7.52096122506793,11.4483842304885,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2011,Single year,8.2456843186396,6.42296936683657,10.0683992704426,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2012,Single year,8.31511155606248,6.45293748220035,10.1772856299246,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2013,Single year,6.3766370010499,4.75966077236046,7.99361322973935,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2014,Single year,8.94124057734525,7.02615850147322,10.8563226532172,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2015,Single year,9.36660355055515,7.39494484252567,11.3382622585846,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2016,Single year,7.34389787429015,5.59515158863485,9.09264415994544,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2017,Single year,7.54894320341832,5.79077266042155,9.30711374641508,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I12,2018,Single year,5.65755596760925,4.13318268921136,7.18192924600715,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Fatal
+C_I01,2000,Single year,829,772.568011178451,885.431988821549,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2001,Single year,823,766.772599122569,879.22740087743,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2002,Single year,739,685.719252365484,792.280747634516,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2003,Single year,722,669.335654674712,774.664345325287,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2004,Single year,619,570.236663260092,667.763336739908,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2005,Single year,657,606.762181126206,707.237818873793,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2006,Single year,627,577.922564445814,676.077435554185,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2007,Single year,669,618.305464288107,719.694535711892,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2008,Single year,597,549.111056433093,644.888943566906,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2009,Single year,675,624.078641966572,725.921358033427,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2010,Single year,614,565.434006589938,662.565993410062,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2011,Single year,620,571.197290353604,668.802709646395,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2012,Single year,612,563.513168816009,660.48683118399,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2013,Single year,658,607.723962924503,708.276037075497,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2014,Single year,649,599.068979835872,698.931020164127,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2015,Single year,616,567.354973187924,664.645026812076,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2016,Single year,690,638.515957945408,741.484042054591,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2017,Single year,628,578.883443327164,677.116556672836,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2018,Single year,708,655.848750302112,760.151249697887,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2019,Single year,793,737.806913070472,848.193086929528,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I01,2020,Single year,770,715.613206640449,824.386793359551,Injuries,Number,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2000,Single year,94.245486384257,87.8259627620036,100.66501000651,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2001,Single year,93.721676656273,87.3175306897129,100.125822622833,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2002,Single year,83.558537280526,77.5339909320113,89.5830836290407,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2003,Single year,81.1618966253737,75.2417606819749,87.0820325687726,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2004,Single year,69.2708905851613,63.8138218402921,74.7279593300305,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2005,Single year,73.7082962558418,68.0720386601229,79.3445538515608,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2006,Single year,70.3658759530846,64.8577150908941,75.8740368152751,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2007,Single year,74.6399919221258,68.9818725371693,80.2981113070822,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2008,Single year,66.1677763723553,60.8549242577356,71.480628486975,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2009,Single year,73.9310636788936,68.344874033624,79.5172533241631,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2010,Single year,66.7754883331043,61.4821645339664,72.0688121322422,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2011,Single year,66.8566919702065,61.5803902674241,72.1329936729888,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2012,Single year,66.06613484325,60.8186113880613,71.3136582984386,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2013,Single year,71.4047614084252,65.936421164277,76.8731016525733,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2014,Single year,70.6972977870091,65.2478131634424,76.1467824105757,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2015,Single year,67.0221949845616,61.7191273460947,72.3252626230285,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2016,Single year,74.5712869344914,68.9961108150538,80.1464630539289,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2017,Single year,67.0701300016189,61.8165672403313,72.3236927629065,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2018,Single year,74.8879086884712,69.3668574569211,80.4089599200213,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2019,Single year,83.2436434892852,77.447087728187,89.0401992503835,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_I02,2020,Single year,79.9134624163326,74.2680858475526,85.5588389851127,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2000,Single year,203,175.074811717717,230.925188282282,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2001,Single year,157,132.441721663582,181.558278336418,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2002,Single year,137,114.05920972514,159.940790274859,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2003,Single year,150,125.995441618223,174.004558381776,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2004,Single year,123,101.26294787821,144.737052121789,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2005,Single year,148,124.156009028211,171.843990971788,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2006,Single year,138,114.975636441895,161.024363558104,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2007,Single year,128,105.825538810405,150.174461189594,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2008,Single year,103,83.1085380494169,122.891461950583,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2009,Single year,112,91.257690873055,132.742309126944,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2010,Single year,113,92.1652970566308,133.834702943369,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2011,Single year,94,74.9974441417674,113.002555858232,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2012,Single year,85,66.93002490984,103.069975090159,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2013,Single year,102,82.2053340591259,121.794665940874,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2014,Single year,106,85.8209357255204,126.179064274479,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2015,Single year,100,80.4003601545994,119.5996398454,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2016,Single year,121,99.4403961700594,142.55960382994,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2017,Single year,115,93.9817278450434,136.018272154956,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2018,Single year,113,92.1652970566308,133.834702943369,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2019,Single year,127,104.912327641234,149.087672358765,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M01,2020,Single year,130,107.65297230748,152.347027692519,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2000,Single year,23.2306276235847,20.0324334887429,26.4288217584264,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2001,Single year,17.980241219634,15.167144679759,20.793337759509,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2002,Single year,15.5264706308544,12.9264864301301,18.1264548315788,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2003,Single year,16.8618898806178,14.1634750801753,19.5603046810603,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2004,Single year,13.7868124849107,11.3503181452757,16.2233068245456,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2005,Single year,16.6362611482151,13.9559795185729,19.3165427778574,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2006,Single year,15.6003761759845,12.9974768433264,18.2032755086426,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2007,Single year,14.4184269474533,11.9198619866832,16.9169919082234,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2008,Single year,11.6423972804542,9.39258601200097,13.8922085489074,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2009,Single year,12.6050221462344,10.2679385882381,14.9421057042308,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2010,Single year,12.7046220472803,10.3590864360998,15.0501576584609,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2011,Single year,10.4873888671548,8.363444322884,12.6113334114257,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2012,Single year,9.42663422666388,7.41838109072312,11.4348873626046,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2013,Single year,11.5132506321374,9.27526294790317,13.7512383163717,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2014,Single year,11.8094940000434,9.55768055025143,14.0613074498354,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2015,Single year,10.904761745841,8.76349394308608,13.0460295485961,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2016,Single year,13.2768740223385,10.9057263392333,15.6480217054438,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2017,Single year,12.3665229970644,10.1021762645765,14.6308697295523,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2018,Single year,12.0996643932472,9.86609836707754,14.3332304194169,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2019,Single year,13.3786058915892,11.0503179546809,15.7068938284975,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_M02,2020,Single year,13.5048932107438,11.1828538351255,15.8269325863621,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious non-fatal
+C_I21,2000,Single year,937,877.004609218787,996.995390781212,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2001,Single year,926,866.357809664946,985.642190335053,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2002,Single year,846,788.992332425302,903.007667574697,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2003,Single year,807,751.321842089557,862.678157910442,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2004,Single year,709,656.811933319271,761.188066680728,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2005,Single year,750,696.324175688485,803.675824311514,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2006,Single year,716,663.554938119809,768.44506188019,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2007,Single year,772,717.542620246876,826.457379753123,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2008,Single year,701,649.107200563984,752.892799436016,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2009,Single year,782,727.191051845681,836.808948154319,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2010,Single year,704,651.996278885365,756.003721114634,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2011,Single year,699,647.181280258335,750.818719741664,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2012,Single year,689,637.553278749192,740.446721250807,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2013,Single year,718,665.48174190571,770.518258094289,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2014,Single year,733,679.935988508511,786.064011491488,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2015,Single year,703,651.033226471639,754.966773528361,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2016,Single year,758,704.038663970522,811.961336029477,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2017,Single year,699,647.181280258335,750.818719741664,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I21,2018,Single year,761,706.931985772101,815.068014227898,Injuries,Number,All,Validated,Children,0-14 years,Serious
+C_I22,2000,Single year,106.525775632846,99.700760691442,113.350790574251,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2001,Single year,105.456555134212,98.6631248139849,112.24998545444,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2002,Single year,95.6582089977666,89.2121723397916,102.104245655741,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2003,Single year,90.7169675577238,84.4580411081136,96.9758940073341,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2004,Single year,79.3322531898016,73.4926871121676,85.1718192674356,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2005,Single year,84.1324186490965,78.1111222030083,90.1537150951847,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2006,Single year,80.3352005823544,74.4504532304305,86.2199479342783,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2007,Single year,86.003773138286,79.9346698212343,92.0728764553378,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2008,Single year,77.4768784523231,71.7358430048631,83.2179138997831,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2009,Single year,85.4985347599121,79.496488810075,91.5005807097492,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2010,Single year,76.2601610608825,70.6143272244686,81.9059948972964,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2011,Single year,75.1023762888461,69.5201142514359,80.6846383262562,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2012,Single year,74.3812463993125,68.8131053545724,79.9493874440525,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2013,Single year,77.7813984094751,72.0789991644277,83.4837976545224,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2014,Single year,79.6385383643543,73.8623439407034,85.4147327880052,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2015,Single year,76.3887985351168,70.7310636138693,82.0465334563643,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2016,Single year,81.9151848087815,76.0721802448316,87.7581893727314,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2017,Single year,74.6190732050372,69.0791196542347,80.1590267558397,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_I22,2018,Single year,80.5454646560805,74.8178368230858,86.2730924890751,"Per 100,000 people",Age-standardised rate,All,Validated,Children,0-14 years,Serious
+C_F21,2000,Single year,210,181.597423491067,238.402576508932,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2001,Single year,213,184.395267370453,241.604732629546,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2002,Single year,177,150.924375151056,203.075624848943,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2003,Single year,187,160.197895614899,213.8021043851,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2004,Single year,143,119.562239625782,166.437760374217,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2005,Single year,143,119.562239625782,166.437760374217,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2006,Single year,153,128.756584408004,177.243415591995,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2007,Single year,164,138.900214212192,189.099785787807,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2008,Single year,156,131.520057679228,180.479942320771,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2009,Single year,179,152.777469059904,205.222530940095,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2010,Single year,162,137.053731161705,186.946268838294,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2011,Single year,147,123.2366995844,170.763300415599,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2012,Single year,210,181.597423491067,238.402576508932,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2013,Single year,221,191.863040663559,250.13695933644,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2014,Single year,210,181.597423491067,238.402576508932,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2015,Single year,185,158.341607666094,211.658392333905,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2016,Single year,194,166.700860614029,221.29913938597,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2017,Single year,185,158.341607666094,211.658392333905,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F21,2018,Single year,228,198.405192835258,257.594807164742,Injuries,Number,Falls,Validated,Children,0-14 years,Serious
+C_F22,2000,Single year,23.8161975882879,20.593268196205,27.0391269803708,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2001,Single year,24.1636448057671,20.918168213915,27.4091213976191,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2002,Single year,19.9906367099576,17.0455764747487,22.9356969451666,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2003,Single year,21.0211560511702,18.008261833101,24.0340502692394,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2004,Single year,16.0045956908764,13.3813959575098,18.6277954242431,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2005,Single year,16.0362248738063,13.4078197955867,18.6646299520258,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2006,Single year,17.1544935158263,14.4361081489631,19.8728788826894,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2007,Single year,18.1750210849342,15.392360904878,20.9576812649904,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2008,Single year,17.2051294042452,14.5025846170724,19.907674191418,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2009,Single year,19.5761710136412,16.7041443870465,22.4481976402359,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2010,Single year,17.6369056781061,14.9150805922545,20.3587307639578,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2011,Single year,15.8146991323915,13.2514171355897,18.3779811291934,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2012,Single year,22.7864334106876,19.6968979245923,25.8759688967829,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2013,Single year,23.9969706852468,20.8259996877067,27.1679416827869,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2014,Single year,22.9214885519318,19.8157490972393,26.0272280066242,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2015,Single year,20.2048985673137,17.287537359929,23.1222597746985,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2016,Single year,20.9628643289557,18.0071985679223,23.918530089989,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2017,Single year,19.5943188999578,16.7671053091322,22.4215324907834,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_F22,2018,Single year,24.0291137634294,20.9075372140296,27.1506903128292,"Per 100,000 people",Age-standardised rate,Falls,Validated,Children,0-14 years,Serious
+C_M21,2000,Single year,239,208.699692111368,269.300307888632,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2001,Single year,186,159.269655059294,212.730344940705,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2002,Single year,169,143.520468200979,194.47953179902,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2003,Single year,177,150.924375151056,203.075624848943,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2004,Single year,141,117.726717169297,164.273282830702,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2005,Single year,177,150.924375151056,203.075624848943,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2006,Single year,162,137.053731161705,186.946268838294,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2007,Single year,158,133.363634730957,182.636365269042,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2008,Single year,124,102.174764748895,145.825235251104,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2009,Single year,134,111.311776579621,156.688223420378,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2010,Single year,128,105.825538810405,150.174461189594,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2011,Single year,104,84.0122107937824,123.987789206217,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2012,Single year,99,79.4986045820121,118.501395417987,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2013,Single year,109,88.5373752549762,129.462624745023,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2014,Single year,119,97.6193171375982,140.380682862401,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2015,Single year,110,89.4437243091956,130.556275690804,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2016,Single year,136,113.143088581035,158.856911418964,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2017,Single year,128,105.825538810405,150.174461189594,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M21,2018,Single year,128,105.825538810405,150.174461189594,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2000,Single year,27.338174918981,23.8695343773066,30.8068154606555,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2001,Single year,21.3014356230011,18.2395384346202,24.363332811382,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2002,Single year,19.1520289442057,16.2644782801828,22.0395796082286,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2003,Single year,19.897030059129,16.9658012939877,22.8282588242703,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2004,Single year,15.8011400449501,13.1929864782973,18.409293611603,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2005,Single year,19.8985522577639,16.9670466379654,22.8300578775625,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2006,Single year,18.3087278827447,15.4892833780505,21.128172387439,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2007,Single year,17.7807310870991,15.0073794816007,20.5540826925976,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2008,Single year,13.9749103165573,11.5134213305545,16.4363993025601,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2009,Single year,15.0295170512579,12.4816875406069,17.5773465619089,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2010,Single year,14.3354374255395,11.8483153424867,16.8225595085922,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2011,Single year,11.598801105251,9.36546990306926,13.8321323074328,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2012,Single year,11.0207473477643,8.84539012362162,13.1961045719071,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2013,Single year,12.2582178192135,9.95285044496188,14.5635851934652,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2014,Single year,13.2299030709447,10.8489325918735,15.610873550016,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2015,Single year,11.9933374313622,9.7479143146846,14.2387605480399,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2016,Single year,14.9297400064091,12.4147400081654,17.4447400046529,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2017,Single year,13.7340135565662,11.3504293644821,16.1175977486503,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+C_M22,2018,Single year,13.7154631172651,11.3366405681323,16.0942856663979,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Serious
+a12,2000,Single year,1.46533128386629,1.08422953235681,1.84643303537578,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2001,Single year,1.35400787940645,0.98571027708594,1.72230548172696,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2002,Single year,1.77664234006226,1.3603606189779,2.19292406114662,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2003,Single year,1.44002780743352,1.0694281847724,1.81062743009464,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2004,Single year,1.19946230360417,0.86358569920782,1.53533890800052,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2005,Single year,1.70424786351863,1.30485315984152,2.10364256719575,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2006,Single year,1.55280085330775,1.17492822851925,1.93067347809625,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2007,Single year,1.26719350844258,0.92885368900107,1.60553332788409,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2008,Single year,1.25761328345717,0.91828682556471,1.59693974134962,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2009,Single year,1.98906937136429,1.56244503588977,2.41569370683882,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2010,Single year,1.25386505834183,0.92082286735864,1.58690724932502,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2011,Single year,1.22979219474302,0.90009519119485,1.55948919829119,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2012,Single year,1.3025830991105,0.96184564489423,1.64332055332677,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2013,Single year,1.18153912641801,0.85724665349562,1.5058315993404,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2014,Single year,1.00575299996368,0.70908575402151,1.30242024590584,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2015,Single year,1.26112383433845,0.93652129406108,1.58572637461582,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2016,Single year,1.23820326930418,0.91497332117522,1.56143321743313,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2017,Single year,0.84127439746682,0.57688355034582,1.10566524458782,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a12,2018,Single year,1.22973250946352,0.919867104711,1.53959791421604,"Per 100,000 people",Age-standardised rate,Assault,Validated,Whole pop,All ages,Fatal
+a11,2000,Single year,57,42.202596417629,71.7974035823709,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2001,Single year,52,37.8664987113562,66.1335012886437,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2002,Single year,70,53.6017648068888,86.3982351931111,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2003,Single year,58,43.0733589980779,72.926641001922,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2004,Single year,49,35.2802521082196,62.7197478917803,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2005,Single year,70,53.6017648068888,86.3982351931111,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2006,Single year,65,49.1982651792558,80.8017348207441,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2007,Single year,54,39.597264970934,68.4027350290659,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2008,Single year,53,38.7312468135163,67.2687531864837,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2009,Single year,84,66.0366333629159,101.963366637084,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2010,Single year,55,40.464518063092,69.5354819369079,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2011,Single year,54,39.597264970934,68.4027350290659,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2012,Single year,57,42.202596417629,71.7974035823709,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2013,Single year,52,37.8664987113562,66.1335012886437,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2014,Single year,45,31.8521618913512,58.1478381086487,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2015,Single year,59,43.9452309741745,74.0547690258254,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2016,Single year,58,43.0733589980779,72.926641001922,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2017,Single year,40,27.6040993539087,52.3959006460912,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+a11,2018,Single year,62,46.567228152952,77.4327718470479,Injuries,Number,Assault,Validated,Whole pop,All ages,Fatal
+f12b,2000,Single year,1.571001294023,1.16620618867397,1.97579639937203,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2001,Single year,1.7664899043794,1.3366734869783,2.1963063217805,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2002,Single year,1.8751772294205,1.43579151075612,2.31456294808489,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2003,Single year,1.86423633265328,1.43060576958128,2.29786689572528,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2004,Single year,2.48329336803152,1.98647143706489,2.98011529899816,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2005,Single year,2.11080382957414,1.65644858315134,2.56515907599695,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2006,Single year,1.96976223808797,1.53480231966735,2.40472215650859,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2007,Single year,1.94033203279949,1.51140366046574,2.36926040513324,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2008,Single year,2.3886267334396,1.9195487041382,2.85770476274101,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2009,Single year,2.19441338495673,1.74894475488982,2.63988201502365,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2010,Single year,2.29242524506313,1.84073471402328,2.74411577610298,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2011,Single year,2.04909974792647,1.63231493440057,2.46588456145238,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2012,Single year,1.89022334944064,1.49270857946376,2.28773811941752,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2013,Single year,1.60149507509215,1.2392573928109,1.9637327573734,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2014,Single year,2.03431240929186,1.63151259469751,2.43711222388621,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2015,Single year,1.61624895010267,1.26289316367275,1.96960473653258,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2016,Single year,1.78694128541331,1.41474614279511,2.15913642803151,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2017,Single year,1.57791242424405,1.24297927318686,1.91284557530124,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f12b,2018,Single year,1.69185694695155,1.339689094218,2.0440247996851,"Per 100,000 people",Age-standardised rate,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2000,Single year,58,43.0733589980779,72.926641001922,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2001,Single year,65,49.1982651792558,80.8017348207441,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2002,Single year,70,53.6017648068888,86.3982351931111,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2003,Single year,71,54.485049916234,87.514950083766,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2004,Single year,96,76.7963532945787,115.203646705421,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2005,Single year,83,65.1438783013328,100.856121698667,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2006,Single year,79,61.5794590544714,96.4205409455285,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2007,Single year,79,61.5794590544714,96.4205409455285,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2008,Single year,100,80.4003601545994,119.5996398454,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2009,Single year,94,74.9974441417674,113.002555858232,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2010,Single year,100,80.4003601545994,119.5996398454,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2011,Single year,94,74.9974441417674,113.002555858232,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2012,Single year,88,69.613908076454,106.386091923546,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2013,Single year,77,59.8013858350898,94.1986141649101,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2014,Single year,100,80.4003601545994,119.5996398454,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2015,Single year,82,64.2517712631114,99.7482287368886,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2016,Single year,91,72.3031352178188,109.696864782181,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2017,Single year,87,68.7186729857926,105.281327014207,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+f11b,2018,Single year,92,73.2006858767704,110.799314123229,Injuries,Number,Falls,Validated,Whole pop,0-74 years,Fatal
+w14,2002,Single year,5.81517976066176,4.65102592765463,6.9793335936689,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2003,Single year,5.33055217567645,4.24130516697203,6.41979918438088,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2004,Single year,4.30937924092585,3.35801714828111,5.26074133357059,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2005,Single year,4.00392713729621,3.09643505355928,4.91141922103314,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2006,Single year,3.85406127247846,2.97819665682472,4.72992588813221,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2007,Single year,2.83155025621875,2.08921654280722,3.57388396963027,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2008,Single year,3.34183830076933,2.53662520021514,4.14705140132352,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2009,Single year,3.59183182962946,2.74425399239375,4.43940966686517,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2010,Single year,4.55042521678511,3.58501522122893,5.51583521234129,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2011,Single year,5.7099429432995,4.64984645628251,6.77003943031648,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2012,Single year,2.54909547348052,1.83173796728415,3.2664529796769,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2013,Single year,2.57534428507614,1.84428439422913,3.30640417592316,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2014,Single year,2.12811626295977,1.51630325451357,2.73992927140597,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2015,Single year,1.90588751046518,1.3219446622076,2.48983035872275,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2016,Single year,2.05656703643604,1.46343249343378,2.64970157943831,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2017,Single year,2.39484152182791,1.76557659118649,3.02410645246932,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2018,Single year,1.86945949978771,1.31395016671776,2.42496883285766,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2019,Single year,2.63678811345294,1.97763286151628,3.2959433653896,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w14,2020,Single year,2.01539153813822,1.44748190065385,2.58330117562259,"Per 100,000 people",Age-standardised rate,Work,Validated,Whole pop,All ages,Fatal
+w12,2002,Single year,96,76.7963532945787,115.203646705421,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2003,Single year,92,73.2006858767704,110.799314123229,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2004,Single year,79,61.5794590544714,96.4205409455285,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2005,Single year,75,58.0262139888574,91.9737860111425,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2006,Single year,75,58.0262139888574,91.9737860111425,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2007,Single year,57,42.202596417629,71.7974035823709,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2008,Single year,68,51.8377229386698,84.1622770613302,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2009,Single year,71,54.485049916234,87.514950083766,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2010,Single year,90,71.4061490308631,108.593850969136,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2011,Single year,119,97.6193171375982,140.380682862401,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2012,Single year,52,37.8664987113562,66.1335012886437,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2013,Single year,53,38.7312468135163,67.2687531864837,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2014,Single year,51,37.0030574818855,64.9969425181144,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2015,Single year,47,33.5631638927676,60.4368361072323,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2016,Single year,55,40.464518063092,69.5354819369079,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2017,Single year,65,49.1982651792558,80.8017348207441,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2018,Single year,49,35.2802521082196,62.7197478917803,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2019,Single year,72,55.3691541078038,88.6308458921961,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+w12,2020,Single year,58,43.0733589980779,72.926641001922,Injuries,Number,Work,Validated,Whole pop,All ages,Fatal
+s12,2000,Single year,13.8160045119801,10.7784803997603,16.8535286241999,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2001,Single year,13.3932356318868,10.4339076638703,16.3525635999034,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2002,Single year,13.4272536214983,10.4838559760489,16.3706512669478,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2003,Single year,14.4278606965174,11.3961315067649,17.4595898862698,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2004,Single year,17.9856263402238,14.6239198249763,21.3473328554713,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2005,Single year,17.0012318170528,13.7472983617711,20.2551652723344,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2006,Single year,17.248062809562,13.9904623726805,20.5056632464434,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2007,Single year,15.2586097473208,12.2297866312362,18.2874328634054,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2008,Single year,13.1262833402754,10.358199196125,15.8943674844257,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2009,Single year,12.1303250788627,9.50855821561692,14.7520919421085,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2010,Single year,14.5488256133591,11.7092139891227,17.3884372375954,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2011,Single year,15.9658266764283,13.0015629316085,18.930090421248,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2012,Single year,16.6099488788069,13.6015809834782,19.6183167741357,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2013,Single year,14.3123843503069,11.5337443649327,17.091024335681,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2014,Single year,12.6682623940832,10.0649370242251,15.2715877639413,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2015,Single year,15.6149656798819,12.7549824818267,18.4749488779371,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2016,Single year,17.1493500239734,14.2093108716106,20.0893891763361,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2017,Single year,17.5745332400552,14.6385958212771,20.5104706588333,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s12,2018,Single year,17.3956722095545,14.4638612382098,20.3274831808992,"Per 100,000 people",Age-standardised rate,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2000,Single year,80,62.4695491884683,97.5304508115316,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2001,Single year,79,61.5794590544714,96.4205409455285,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2002,Single year,80,62.4695491884683,97.5304508115316,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2003,Single year,87,68.7186729857926,105.281327014207,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2004,Single year,110,89.4437243091956,130.556275690804,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2005,Single year,105,84.916345547364,125.083654452635,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2006,Single year,108,87.6314567866289,128.368543213371,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2007,Single year,98,78.5973464591045,117.402653540895,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2008,Single year,87,68.7186729857926,105.281327014207,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2009,Single year,83,65.1438783013328,100.856121698667,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2010,Single year,102,82.2053340591259,121.794665940874,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2011,Single year,113,92.1652970566308,133.834702943369,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2012,Single year,119,97.6193171375982,140.380682862401,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2013,Single year,104,84.0122107937824,123.987789206217,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2014,Single year,93,74.0987918289715,111.901208171028,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2015,Single year,118,96.7093414652832,139.290658534716,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2016,Single year,135,112.22727638613,157.772723613869,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2017,Single year,142,118.644333609623,165.355666390376,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+s11,2018,Single year,140,116.809393390918,163.190606609081,Injuries,Number,Intentional self-harm,Validated,Maori,All ages,Fatal
+m12,2000,Single year,4.10754729539636,2.76478094073469,5.45031365005803,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2001,Single year,3.32119440336708,2.112185615327,4.53020319140716,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2002,Single year,3.6255583133513,2.36936127734033,4.88175534936227,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2003,Single year,3.0351401785112,1.89029973620297,4.17998062081943,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2004,Single year,2.01432756003947,1.0837576485494,2.94489747152955,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2005,Single year,3.26229110954881,2.07493455622855,4.44964766286906,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2006,Single year,2.70835170676024,1.62475474335613,3.79194867016436,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2007,Single year,3.3623041396458,2.15870442855703,4.56590385073457,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2008,Single year,2.33251303610312,1.33387532173736,3.33115075046888,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2009,Single year,2.42449490502346,1.40986410601969,3.43912570402724,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2010,Single year,1.63081537825912,0.80362800366234,2.4580027528559,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2011,Single year,1.11141223809618,0.42102985745429,1.80179461873807,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2012,Single year,1.59411312110049,0.75799208045256,2.43023416174842,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2013,Single year,0.74496718707613,0.19167715871861,1.29825721543366,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2014,Single year,1.42040907090134,0.6468739330153,2.19394420878739,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2015,Single year,1.08857568552119,0.4126339944004,1.76451737664199,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2016,Single year,1.65286598407058,0.81448441457451,2.49124755356665,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2017,Single year,1.36749055950176,0.62303943563613,2.11194168336738,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m12,2018,Single year,1.61579872401792,0.79727595279942,2.43432149523641,"Per 100,000 people",Age-standardised rate,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2000,Single year,36,24.2402160927596,47.7597839072403,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2001,Single year,29,18.4452709272037,39.5547290727962,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2002,Single year,32,20.9127694052025,43.0872305947974,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2003,Single year,27,16.8157283933144,37.1842716066855,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2004,Single year,18,9.68457705390193,26.315422946098,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2005,Single year,29,18.4452709272037,39.5547290727962,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2006,Single year,24,14.3981766472893,33.6018233527106,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2007,Single year,30,19.264835137697,40.7351648623029,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2008,Single year,21,12.0183166814579,29.981683318542,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2009,Single year,22,12.806954038227,31.193045961773,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2010,Single year,15,7.40909212871004,22.5909078712899,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2011,Single year,10,3.80204967695438,16.1979503230456,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2012,Single year,14,6.66648627943482,21.3335137205651,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2013,Single year,7,1.81442271826377,12.1855772817362,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2014,Single year,13,5.93324935567812,20.0667506443218,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2015,Single year,10,3.80204967695438,16.1979503230456,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2016,Single year,15,7.40909212871004,22.5909078712899,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2017,Single year,13,5.93324935567812,20.0667506443218,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+m11,2018,Single year,15,7.40909212871004,22.5909078712899,Injuries,Number,Motor vehicle traffic crashes,Validated,Children,0-14 years,Fatal
+f02c,2000,Single year,589.635641172669,378.535322821614,800.735959523724,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2001,Single year,483.016840894442,297.308765659627,668.724916129256,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2002,Single year,524.520999151692,336.811100219951,712.230898083432,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2003,Single year,465.890183028286,293.325215250042,638.45515080653,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2004,Single year,613.28602523618,420.798448222315,805.773602250045,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2005,Single year,691.918179295,494.013352828774,889.823005761227,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2006,Single year,804.438545014205,597.203973538359,1011.67311649005,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2007,Single year,594.476735440699,420.478309115626,768.475161765772,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2008,Single year,619.89046993293,449.384837307202,790.396102558658,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2009,Single year,598.101350307709,438.274752359038,757.927948256381,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2010,Single year,453.29436623487,319.07566581335,587.51306665639,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2011,Single year,636.926628779519,481.860282030972,791.992975528065,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2012,Single year,698.26622691345,542.947071227847,853.585382599053,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2013,Single year,800.781688388365,639.329072308978,962.234304467752,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2014,Single year,670.135286505062,527.274074136706,812.996498873418,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2015,Single year,573.726061926903,446.128755485249,701.323368368556,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2016,Single year,774.060739455074,630.323001079906,917.798477830241,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2017,Single year,837.273946589191,692.813480266733,981.73441291165,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2018,Single year,687.465910606061,560.10441489026,814.827406321862,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2019,Single year,799.718855178479,665.397706210913,934.040004146045,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f02c,2020,Single year,775.459703912283,648.146574975317,902.772832849248,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2000,Single year,30,19.264835137697,40.7351648623029,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2001,Single year,26,16.0061053968912,35.9938946031088,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2002,Single year,30,19.264835137697,40.7351648623029,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2003,Single year,28,17.6288454365275,38.3711545634724,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2004,Single year,39,26.7600288396144,51.2399711603856,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2005,Single year,47,33.5631638927676,60.4368361072323,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2006,Single year,58,43.0733589980779,72.926641001922,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2007,Single year,45,31.8521618913512,58.1478381086487,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2008,Single year,51,37.0030574818855,64.9969425181144,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2009,Single year,54,39.597264970934,68.4027350290659,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2010,Single year,44,30.9990697213414,57.0009302786586,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2011,Single year,65,49.1982651792558,80.8017348207441,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2012,Single year,78,60.6900667819271,95.3099332180728,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2013,Single year,95,75.8966341194557,114.103365880544,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2014,Single year,85,66.93002490984,103.069975090159,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2015,Single year,78,60.6900667819271,95.3099332180728,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2016,Single year,112,91.257690873055,132.742309126944,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2017,Single year,130,107.65297230748,152.347027692519,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2018,Single year,113,92.1652970566308,133.834702943369,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2019,Single year,138,114.975636441895,161.024363558104,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+f01c,2020,Single year,145,121.398908309134,168.601091690865,Injuries,Number,Falls,Validated,Maori,75+ years,Serious non-fatal
+wf02,2002,Single year,37.9025304020914,29.2521283800766,46.5529324241061,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2003,Single year,32.5,24.5991325896279,40.400867410372,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2004,Single year,25.5629559578785,18.6695037417211,32.4564081740359,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2005,Single year,31.8044701489846,24.2965498954385,39.3123904025306,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2006,Single year,33.558077766286,25.8609753324677,41.2551802001044,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2007,Single year,33.9431129253875,26.5347084974517,41.3515173533232,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2008,Single year,28.4440974740971,21.6788482815623,35.2093466666318,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2009,Single year,24.9319161219921,18.4390014885622,31.424830755422,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2010,Single year,25.5123340785681,19.0836788288956,31.9409893282407,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2011,Single year,25.0667109633208,18.5878356936643,31.5455862329772,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2012,Single year,29.6294147330663,22.6065737426186,36.652255723514,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2013,Single year,21.6594616618757,15.7418512419146,27.5770720818368,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2014,Single year,20.7126192130346,14.9628107642369,26.4624276618323,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2015,Single year,24.3297138107092,18.1832337493243,30.4761938720942,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2016,Single year,18.8643609323092,13.6520866289943,24.076635235624,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2017,Single year,19.9949161424565,14.9035726839665,25.0862596009465,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2018,Single year,21.0346427505631,16.0127851520533,26.0565003490728,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2019,Single year,25.0888787624054,19.5922312148113,30.5855263099996,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf02,2020,Single year,18.4979567639176,13.7104384935598,23.2854750342754,"Per 100,000 people",Age-standardised rate,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2002,Single year,74,57.1397522932975,90.8602477067024,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2003,Single year,65,49.1982651792558,80.8017348207441,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2004,Single year,53,38.7312468135163,67.2687531864837,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2005,Single year,71,54.485049916234,87.514950083766,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2006,Single year,75,58.0262139888574,91.9737860111425,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2007,Single year,82,64.2517712631114,99.7482287368886,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2008,Single year,69,52.7193163955596,85.2806836044404,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2009,Single year,59,43.9452309741745,74.0547690258254,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2010,Single year,65,49.1982651792558,80.8017348207441,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2011,Single year,61,45.6921919249573,76.3078080750426,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2012,Single year,75,58.0262139888574,91.9737860111425,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2013,Single year,59,43.9452309741745,74.0547690258254,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2014,Single year,55,40.464518063092,69.5354819369079,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2015,Single year,67,50.9570033663749,83.0429966336251,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2016,Single year,57,42.202596417629,71.7974035823709,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2017,Single year,68,51.8377229386698,84.1622770613302,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2018,Single year,78,60.6900667819271,95.3099332180728,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2019,Single year,91,72.3031352178188,109.696864782181,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+wf01,2020,Single year,64,48.3202881236795,79.6797118763204,Injuries,Number,Work,Validated,Maori,All ages,Serious non-fatal
+in02,2000,Single year,3.31967674018865,2.11075159785028,4.52860188252703,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2001,Single year,6.1450927312456,4.50585780110907,7.78432766138213,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2002,Single year,5.5325255832387,3.98343088243679,7.08162028404061,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2003,Single year,3.25996537691944,2.07348084795114,4.44644990588774,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2004,Single year,4.24945616150155,2.8983337425969,5.60057858040621,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2005,Single year,4.47737388531982,3.08982887827477,5.86491889236488,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2006,Single year,4.69021187766119,3.27166385974916,6.10875989557322,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2007,Single year,5.00617015742031,3.54289949552609,6.46944081931454,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2008,Single year,4.07908567621931,2.76333210009106,5.39483925234757,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2009,Single year,5.9999086033731,4.42605518411301,7.57376202263318,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2010,Single year,6.01737394565064,4.43767077862924,7.59707711267203,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2011,Single year,4.54193985651106,3.16462746097081,5.91925225205131,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2012,Single year,4.34362000611818,2.99363489838668,5.69360511384968,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2013,Single year,3.97119608527206,2.68837647825172,5.2540156922924,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2014,Single year,6.78558665851986,5.09263722042102,8.4785360966187,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2015,Single year,3.65253758057108,2.40345473497924,4.90162042616293,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2016,Single year,4.42620650073739,3.05166012023054,5.80075288124423,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2017,Single year,5.40751323101593,3.90634944318789,6.90867701884396,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2018,Single year,3.32791048394657,2.15541466560821,4.50040630228494,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2019,Single year,4.26681190565303,2.94403507540308,5.58958873590297,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in02,2020,Single year,6.89665142611292,5.2326172434173,8.56068560880854,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2000,Single year,29,18.4452709272037,39.5547290727962,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2001,Single year,54,39.597264970934,68.4027350290659,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2002,Single year,49,35.2802521082196,62.7197478917803,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2003,Single year,29,18.4452709272037,39.5547290727962,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2004,Single year,38,25.9179705683864,50.0820294316135,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2005,Single year,40,27.6040993539087,52.3959006460912,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2006,Single year,42,29.2979816379776,54.7020183620223,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2007,Single year,45,31.8521618913512,58.1478381086487,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2008,Single year,37,25.0780045141057,48.9219954858942,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2009,Single year,56,41.3329725588696,70.6670274411303,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2010,Single year,56,41.3329725588696,70.6670274411303,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2011,Single year,42,29.2979816379776,54.7020183620223,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2012,Single year,40,27.6040993539087,52.3959006460912,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2013,Single year,37,25.0780045141057,48.9219954858942,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2014,Single year,62,46.567228152952,77.4327718470479,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2015,Single year,33,21.7408641058513,44.2591358941486,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2016,Single year,40,27.6040993539087,52.3959006460912,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2017,Single year,50,36.1409617565032,63.8590382434967,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2018,Single year,31,20.0873823744475,41.9126176255524,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2019,Single year,40,27.6040993539087,52.3959006460912,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+in01,2020,Single year,66,50.0771773178932,81.9228226821067,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious non-fatal
+f22c,2000,Single year,650.586066586577,428.493723402762,872.678409770392,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2001,Single year,501.530585592246,312.31065323027,690.750517954221,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2002,Single year,576.139513748576,379.551556941042,772.72747055611,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2003,Single year,582.362728785357,389.42922954175,775.296228028964,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2004,Single year,724.193868786967,514.903686258422,933.484051315513,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2005,Single year,736.812427712586,532.485412447531,941.139442977642,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2006,Single year,974.510206895173,745.985423281939,1203.0349905084,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2007,Single year,674.026457142628,488.719462889809,859.333451395447,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2008,Single year,708.109812368965,525.497532437873,890.722092300057,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2009,Single year,728.889253472621,552.703638375808,905.074868569433,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2010,Single year,595.907901029023,442.223141961254,749.592660096792,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2011,Single year,695.892581853124,533.787944770754,857.997218935495,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2012,Single year,808.001822474556,640.696684299687,975.306960649425,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2013,Single year,903.555169536598,731.911407487554,1075.19893158564,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2014,Single year,807.122660489598,650.824676980778,963.420643998418,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2015,Single year,688.712454446547,549.195598850839,828.229310042255,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2016,Single year,903.748036768232,748.576648043844,1058.91942549261,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2017,Single year,899.820900986587,750.219509956715,1049.42229201645,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f22c,2018,Single year,772.246016897679,637.277191606101,907.214842189258,"Per 100,000 people",Age-standardised rate,Falls,Validated,Maori,75+ years,Serious
+f21c,2000,Single year,33,21.7408641058513,44.2591358941486,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2001,Single year,27,16.8157283933144,37.1842716066855,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2002,Single year,33,21.7408641058513,44.2591358941486,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2003,Single year,35,23.4046966954592,46.5953033045407,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2004,Single year,46,32.7068775018083,59.2931224981916,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2005,Single year,50,36.1409617565032,63.8590382434967,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2006,Single year,70,53.6017648068888,86.3982351931111,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2007,Single year,51,37.0030574818855,64.9969425181144,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2008,Single year,58,43.0733589980779,72.926641001922,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2009,Single year,66,50.0771773178932,81.9228226821067,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2010,Single year,58,43.0733589980779,72.926641001922,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2011,Single year,71,54.485049916234,87.514950083766,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2012,Single year,90,71.4061490308631,108.593850969136,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2013,Single year,107,86.7259748985488,127.274025101451,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2014,Single year,103,83.1085380494169,122.891461950583,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2015,Single year,94,74.9974441417674,113.002555858232,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2016,Single year,131,108.567186856951,153.432813143048,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2017,Single year,140,116.809393390918,163.190606609081,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+f21c,2018,Single year,127,104.912327641234,149.087672358765,Injuries,Number,Falls,Validated,Maori,75+ years,Serious
+a22,2000,Single year,4.07047284559991,2.74020543354933,5.40074025765048,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2001,Single year,6.5860614853565,4.89088708373727,8.28123588697573,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2002,Single year,6.20870233605566,4.56784180619392,7.8495628659174,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2003,Single year,3.25996537691944,2.07348084795114,4.44644990588774,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2004,Single year,5.14212179552349,3.6561294139076,6.62811417713938,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2005,Single year,5.03643095448297,3.56489286514266,6.50796904382329,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2006,Single year,5.1225301329883,3.64214005098405,6.60292021499254,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2007,Single year,4.95946779017058,3.50993242927347,6.4090031510677,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2008,Single year,3.93980103111714,2.65152281168998,5.22807925054429,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2009,Single year,6.89775895206005,5.2187586152171,8.576759288903,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2010,Single year,6.02653859509343,4.45870927102801,7.59436791915884,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2011,Single year,4.7733245488802,3.3750546657291,6.1715944320313,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2012,Single year,3.7899682580732,2.54882586748247,5.03111064866392,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2013,Single year,3.26832046116044,2.1154497030537,4.42119121926718,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2014,Single year,5.9890540344371,4.41769122526489,7.5604168436093,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2015,Single year,3.93273599547554,2.66380620836271,5.20166578258838,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2016,Single year,3.3210446603087,2.15015369820428,4.49193562241313,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2017,Single year,4.23202500872263,2.91913551873313,5.54491449871214,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a22,2018,Single year,3.06231365695153,1.94704053959079,4.17758677431228,"Per 100,000 people",Age-standardised rate,Assault,Validated,Children,0-14 years,Serious
+a21,2000,Single year,36,24.2402160927596,47.7597839072403,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2001,Single year,58,43.0733589980779,72.926641001922,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2002,Single year,55,40.464518063092,69.5354819369079,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2003,Single year,29,18.4452709272037,39.5547290727962,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2004,Single year,46,32.7068775018083,59.2931224981916,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2005,Single year,45,31.8521618913512,58.1478381086487,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2006,Single year,46,32.7068775018083,59.2931224981916,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2007,Single year,45,31.8521618913512,58.1478381086487,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2008,Single year,36,24.2402160927596,47.7597839072403,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2009,Single year,65,49.1982651792558,80.8017348207441,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2010,Single year,57,42.202596417629,71.7974035823709,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2011,Single year,45,31.8521618913512,58.1478381086487,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2012,Single year,36,24.2402160927596,47.7597839072403,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2013,Single year,31,20.0873823744475,41.9126176255524,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2014,Single year,56,41.3329725588696,70.6670274411303,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2015,Single year,37,25.0780045141057,48.9219954858942,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2016,Single year,31,20.0873823744475,41.9126176255524,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2017,Single year,40,27.6040993539087,52.3959006460912,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+a21,2018,Single year,29,18.4452709272037,39.5547290727962,Injuries,Number,Assault,Validated,Children,0-14 years,Serious
+c22,2000,Single year,12.6900260274908,10.3166864630066,15.063365591975,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2001,Single year,9.39417246189441,7.36046409639734,11.4278808273914,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2002,Single year,7.13514508762747,5.37320816935977,8.89708200589517,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2003,Single year,8.31853234110479,6.42322807316908,10.2138366090404,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2004,Single year,6.9392145464508,5.21191198507815,8.66651710782346,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2005,Single year,9.32595280817666,7.31958611038131,11.332319505972,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2006,Single year,7.45205692098447,5.65413685321513,9.2499769887538,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2007,Single year,8.20804903992526,6.32454260762178,10.0915554722287,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2008,Single year,7.26741102483767,5.49910509293064,9.0357169567447,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2009,Single year,7.24804257554854,5.48367524411406,9.01240990698302,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2010,Single year,6.6576505252521,4.97002454979724,8.34527650070696,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2011,Single year,4.89465100184513,3.44550816418839,6.34379383950188,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2012,Single year,5.50835420720186,3.97795533259606,7.03875308180767,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2013,Single year,5.13345480721501,3.64697989675465,6.61992971767537,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2014,Single year,6.07879666343077,4.46954931539149,7.68804401147005,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2015,Single year,6.30871155477883,4.68216704989693,7.93525605966072,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2016,Single year,8.36828623155657,6.48256817258853,10.2540042905246,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2017,Single year,6.9512148765504,5.24517538399257,8.65725436910822,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c22,2018,Single year,6.88050357031967,5.19294548132698,8.56806165931236,"Per 100,000 people",Age-standardised rate,Car occupant,Validated,Children,0-14 years,Serious
+c21,2000,Single year,110,89.4437243091956,130.556275690804,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2001,Single year,82,64.2517712631114,99.7482287368886,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2002,Single year,63,47.4432681547913,78.5567318452087,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2003,Single year,74,57.1397522932975,90.8602477067024,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2004,Single year,62,46.567228152952,77.4327718470479,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2005,Single year,83,65.1438783013328,100.856121698667,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2006,Single year,66,50.0771773178932,81.9228226821067,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2007,Single year,73,56.2540603754023,89.7459396245977,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2008,Single year,65,49.1982651792558,80.8017348207441,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2009,Single year,65,49.1982651792558,80.8017348207441,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2010,Single year,60,44.81818425742,75.1818157425799,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2011,Single year,44,30.9990697213414,57.0009302786586,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2012,Single year,50,36.1409617565032,63.8590382434967,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2013,Single year,46,32.7068775018083,59.2931224981916,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2014,Single year,55,40.464518063092,69.5354819369079,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2015,Single year,58,43.0733589980779,72.926641001922,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2016,Single year,76,58.9134301168211,93.0865698831788,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2017,Single year,64,48.3202881236795,79.6797118763204,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+c21,2018,Single year,64,48.3202881236795,79.6797118763204,Injuries,Number,Car occupant,Validated,Children,0-14 years,Serious
+in22,2000,Single year,4.90925556054973,3.44102227739345,6.37748884370601,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2001,Single year,7.40411149798331,5.60387181649767,9.20435117946896,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2002,Single year,6.43701511948496,4.7659242732948,8.10810596567512,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2003,Single year,4.04685357134827,2.72490569625662,5.36880144643993,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2004,Single year,6.03633598155343,4.42632470958851,7.64634725351836,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2005,Single year,5.8225403750387,4.23996249863555,7.40511825144185,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2006,Single year,6.36958974357384,4.71591128461428,8.02326820253339,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2007,Single year,5.9930133971915,4.39392043753975,7.59210635684325,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2008,Single year,5.09904669889175,3.62395503619597,6.57413836158753,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2009,Single year,8.41281695510278,6.54270311297805,10.2829307972275,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2010,Single year,7.53664346616663,5.76691334349058,9.30637358884268,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2011,Single year,6.16906507235814,4.56320554944487,7.77492459527142,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2012,Single year,6.24814072301318,4.62152827084248,7.87475317518388,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2013,Single year,4.20820818339525,2.88400177609709,5.53241459069341,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2014,Single year,8.12460906082299,6.26921754276267,9.9800005788833,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2015,Single year,6.19264963690418,4.56699011226163,7.81830916154673,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2016,Single year,5.7875318777417,4.21123752698021,7.36382622850319,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2017,Single year,6.64234149360166,4.97287021845158,8.31181276875174,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in22,2018,Single year,4.52046217599871,3.15220831234748,5.88871603964995,"Per 100,000 people",Age-standardised rate,Intentional,Validated,Children,0-14 years,Serious
+in21,2000,Single year,43,30.1476566615326,55.8523433384674,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2001,Single year,65,49.1982651792558,80.8017348207441,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2002,Single year,57,42.202596417629,71.7974035823709,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2003,Single year,36,24.2402160927596,47.7597839072403,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2004,Single year,54,39.597264970934,68.4027350290659,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2005,Single year,52,37.8664987113562,66.1335012886437,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2006,Single year,57,42.202596417629,71.7974035823709,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2007,Single year,54,39.597264970934,68.4027350290659,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2008,Single year,46,32.7068775018083,59.2931224981916,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2009,Single year,78,60.6900667819271,95.3099332180728,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2010,Single year,70,53.6017648068888,86.3982351931111,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2011,Single year,57,42.202596417629,71.7974035823709,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2012,Single year,57,42.202596417629,71.7974035823709,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2013,Single year,39,26.7600288396144,51.2399711603856,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2014,Single year,74,57.1397522932975,90.8602477067024,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2015,Single year,56,41.3329725588696,70.6670274411303,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2016,Single year,52,37.8664987113562,66.1335012886437,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2017,Single year,61,45.6921919249573,76.3078080750426,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+in21,2018,Single year,42,29.2979816379776,54.7020183620223,Injuries,Number,Intentional,Validated,Children,0-14 years,Serious
+p22,2000,Single year,8.77555321510858,6.82701216041109,10.724094269806,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2001,Single year,7.06681547335553,5.30743523398798,8.82619571272308,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2002,Single year,7.47255596372488,5.6697248902464,9.27538703720336,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2003,Single year,7.30681894826772,5.53050486513364,9.0831330314018,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2004,Single year,5.16221137722396,3.67040791984178,6.65401483460614,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2005,Single year,6.52448639419391,4.84533724879693,8.20363553959088,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2006,Single year,6.43966965892848,4.76784607406624,8.11149324379072,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2007,Single year,5.72568844448036,4.15377521356225,7.29760167539847,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2008,Single year,3.8499051272086,2.55510757817989,5.14470267623731,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2009,Single year,4.59658883569231,3.18783795303402,6.00533971835059,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2010,Single year,5.38368212673499,3.85856781878254,6.90879643468743,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2011,Single year,4.32955384382055,2.96799594583192,5.69111174180918,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2012,Single year,3.55884090590465,2.32331193994983,4.79436987185947,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2013,Single year,4.12639982048674,2.79444428484518,5.45835535612831,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2014,Single year,5.09006193575233,3.61687579447862,6.56324807702604,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2015,Single year,4.41910955036543,3.06438784266074,5.77383125807012,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2016,Single year,3.87702082544349,2.60789729619999,5.146144354687,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2017,Single year,4.2833938713599,2.95351572518311,5.61327201753668,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p22,2018,Single year,4.35847514415755,3.02272574929715,5.69422453901795,"Per 100,000 people",Age-standardised rate,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2000,Single year,78,60.6900667819271,95.3099332180728,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2001,Single year,62,46.567228152952,77.4327718470479,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2002,Single year,66,50.0771773178932,81.9228226821067,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2003,Single year,65,49.1982651792558,80.8017348207441,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2004,Single year,46,32.7068775018083,59.2931224981916,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2005,Single year,58,43.0733589980779,72.926641001922,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2006,Single year,57,42.202596417629,71.7974035823709,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2007,Single year,51,37.0030574818855,64.9969425181144,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2008,Single year,34,22.5715442905176,45.4284557094823,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2009,Single year,41,28.4501071060961,53.5498928939038,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2010,Single year,48,34.4209711910859,61.579028808914,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2011,Single year,39,26.7600288396144,51.2399711603856,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2012,Single year,32,20.9127694052025,43.0872305947974,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2013,Single year,37,25.0780045141057,48.9219954858942,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2014,Single year,46,32.7068775018083,59.2931224981916,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2015,Single year,41,28.4501071060961,53.5498928939038,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2016,Single year,36,24.2402160927596,47.7597839072403,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2017,Single year,40,27.6040993539087,52.3959006460912,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
+p21,2018,Single year,41,28.4501071060961,53.5498928939038,Injuries,Number,Pedestrian,Validated,Children,0-14 years,Serious
