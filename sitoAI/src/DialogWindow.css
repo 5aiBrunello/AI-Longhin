@@ -1,0 +1,29 @@
+.dialog {
+  margin: 80px 25% 40px 25%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dialog:first-child {
+  margin-top: 120px;
+}
+
+.display-message {
+  background-color: #4e5061;
+  margin-left: 15px;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.icon {
+  width: 50px;
+  align-self: flex-start;
+}
+
+#ai {
+  /* Progetto codepen che avendo come target un colore, ritorna il filtro da appliare all'icona perché abbia il colore scelto */
+  /* https://codepen.io/sosuke/pen/Pjoqqp */
+  filter: invert(46%) sepia(91%) saturate(385%) hue-rotate(113deg)
+    brightness(90%) contrast(90%);
+}

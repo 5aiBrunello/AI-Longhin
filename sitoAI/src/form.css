@@ -1,0 +1,53 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+form {
+  background-color: #343541;
+  padding-top: 1em;
+  padding-bottom: 3em;
+  color: white;
+  /* border-radius: 0 0 20px 20px; */
+}
+
+.user-input {
+  background: #40414f;
+  border: none;
+  color: white;
+  height: 25px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.input {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.input > div {
+  text-align: center;
+}
+
+#submit {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  border: none;
+  background: #179e7a;
+  color: white;
+  padding: 13.5px;
+  border-radius: 10px;
+  font-size: 16.5px;
+}
