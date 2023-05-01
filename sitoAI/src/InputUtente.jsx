@@ -1,7 +1,8 @@
 import "./form.css"
+
 function InputUtente() {
   return (
-    <form action="post">
+    <section className="allInputs">
       <div className="input">
         <div>
           <label htmlFor="period">Period</label>
@@ -76,12 +77,12 @@ function InputUtente() {
       </div>
       <div id="submit">
         <input
-          type="submit"
+          type="button"
           value="Clicca per sapere se il bro muore"
           className="btn"
         />
       </div>
-    </form>
+    </section>
   )
 }
 export default InputUtente

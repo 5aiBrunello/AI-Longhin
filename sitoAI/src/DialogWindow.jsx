@@ -1,14 +1,21 @@
 import avatar from "./assets/images/avatar.svg"
 import ai from "./assets/images/AI.svg"
 import { useTypewriter, Cursor } from "react-simple-typewriter"
+import { useEffect, useState } from "react"
 
-function DialogWindow({ whoisTalking, text, setQuestionOn = () => {} }) {
+function DialogWindow({
+  whoisTalking,
+  text,
+  setQuestionOn = () => {},
+  setResponseOn = () => {},
+}) {
   const [typedText, typeSettings] = useTypewriter({
     words: [text],
     typeSpeed: 70,
     loop: 1,
     onLoopDone: () => {
       setQuestionOn(true)
+      setResponseOn(true)
     },
   })
 
@@ -23,6 +30,7 @@ function DialogWindow({ whoisTalking, text, setQuestionOn = () => {} }) {
 
       <div className="display-message">
         <span>{typedText}</span>
+
         <span>
           {!typeSettings.isDone && (
             <Cursor cursorStyle="_" cursorBlinking={true} />
