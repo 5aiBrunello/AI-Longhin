@@ -1,8 +1,8 @@
-import "./form.css"
+import "./form.css";
 
-function InputUtente() {
+function InputUtente({ onSubmit }) {
   return (
-    <section className="allInputs">
+    <form className="allInputs" onSubmit={onSubmit}>
       <div className="input">
         <div>
           <label htmlFor="period">Period</label>
@@ -77,12 +77,12 @@ function InputUtente() {
       </div>
       <div id="submit">
         <input
-          type="button"
+          type="submit"
           value="Clicca per sapere se il bro muore"
           className="btn"
         />
       </div>
-    </section>
-  )
+    </form>
+  );
 }
-export default InputUtente
+export default InputUtente;

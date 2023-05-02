@@ -9,7 +9,7 @@ label {
   margin-bottom: 10px;
 }
 
-.allInputs {
+form {
   background-color: #343541;
   padding-top: 1em;
   padding-bottom: 3em;
@@ -50,4 +50,8 @@ label {
   padding: 13.5px;
   border-radius: 10px;
   font-size: 16.5px;
+}
+
+.btn:hover {
+  cursor: pointer;
 }
