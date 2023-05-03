@@ -1,16 +1,16 @@
-import "./DialogWindow.css";
-import { useEffect, useState } from "react";
-import Chat from "./DialogWindow";
+import "./DialogWindow.css"
+import { useEffect, useState } from "react"
+import Chat from "./DialogWindow"
 
 function ResponseContainer({ formData, aiResponse, isFormSubmitted }) {
-  const [isQuestionDone, setIsQuestionDone] = useState(false);
-  const [userText, setUserText] = useState("");
-  const [AIText, setAIText] = useState("");
+  const [isQuestionDone, setIsQuestionDone] = useState(false)
+  const [userText, setUserText] = useState("")
+  const [AIText, setAIText] = useState("")
 
   useEffect(() => {
-    setUserText("Che genere è?");
-    setAIText(aiResponse);
-  }, []);
+    setUserText("Come si chiama?")
+    setAIText(aiResponse)
+  }, [])
 
   return (
     <section className="response">
@@ -25,6 +25,6 @@ function ResponseContainer({ formData, aiResponse, isFormSubmitted }) {
         <Chat text={AIText} setResponseOn={setIsQuestionDone} />
       )}
     </section>
-  );
+  )
 }
-export default ResponseContainer;
+export default ResponseContainer
