@@ -1,4 +1,4 @@
-import "./form.css";
+import "./form.css"
 
 function InputUtente({ onSubmit }) {
   return (
@@ -17,7 +17,7 @@ function InputUtente({ onSubmit }) {
           <label htmlFor="data-value">Data Value</label>
           <input
             type="number"
-            name="data-value"
+            name="data_value"
             id="data-value"
             className="user-input"
           />
@@ -83,6 +83,6 @@ function InputUtente({ onSubmit }) {
         />
       </div>
     </form>
-  );
+  )
 }
-export default InputUtente;
+export default InputUtente
