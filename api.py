@@ -4,7 +4,6 @@ from typing import Union
 
 import pandas as pd
 
-import nest_asyncio
 import uvicorn
 
 # machine learning
@@ -99,7 +98,6 @@ Y_test = df_test["Severity"]
 Y_train = df_train["Severity"]
 X_train = df_train.drop("Severity", axis=1)
 X_test  = df_test.drop("Severity", axis=1,errors='ignore').copy()
-X_train.shape, Y_train.shape, X_test.shape
 
 logreg = LogisticRegression()
 logreg.fit(X_train, Y_train)
@@ -135,8 +133,6 @@ acc_knn = round(knn.score(X_train, Y_train) * 100, 2)
 # runnare così:
 # uvicorn api:app --reload --host 0.0.0.0
 
-variabile = 7
-
 app = FastAPI()
 
 @app.get("/GetResponse")
@@ -163,8 +159,18 @@ async def read_root(age: str, cause: str, data_value: int, lower_CI: int, period
 
     predd = knn.predict(df_domanda)
 
-    print(predd)
+    print(df_domanda.head(5))
+
+    df_domanda["Risposta"] = predd
+    print(df_domanda.iloc[:, 8])
+    risposta = next(iter(df_domanda.iloc[:, 8].values))
+
+    if risposta == 1:
+        risposta = "Fatal"
+    elif risposta == 2:
+        risposta = "Serious non-fatal"
+    elif risposta == 3:
+        risposta = "Serious"
 
     
-
-    return{"df": predd[0 : 2]}
+    return{"prediction": str(risposta)}
