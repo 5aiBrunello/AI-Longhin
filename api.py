@@ -128,8 +128,6 @@ knn.fit(X_train, Y_train)
 Y_pred = knn.predict(X_test)
 acc_knn = round(knn.score(X_train, Y_train) * 100, 2)
 
-# age :  "0-14" cause :  "all" data-value :  "" lower_CI :  "" period :  "" population :  "maori" units :  "100FTEs" upper_CI :  ""
-
 # runnare così:
 # uvicorn api:app --reload --host 0.0.0.0
 

@@ -1,4 +1,4 @@
-import "./form.css"
+import "./form.css";
 
 function InputUtente({ onSubmit }) {
   return (
@@ -33,11 +33,11 @@ function InputUtente({ onSubmit }) {
         <div>
           <label htmlFor="">Units</label>
           <select name="units" id="" className="user-input">
-            <option value="100FTEs">Per 100,000 FTEs</option>
-            <option value="injuries">Injuries</option>
-            <option value="100people">Per 100,000 people</option>
-            <option value="km">Per billion km</option>
-            <option value="registered_veichles">
+            <option value="Per 100,000 FTEs">Per 100,000 FTEs</option>
+            <option value="Injuries">Injuries</option>
+            <option value="Per 100,000 people">Per 100,000 people</option>
+            <option value="Per billion km">Per billion km</option>
+            <option value="Per thousand registered vehicles">
               Per thousand registered vehicles
             </option>
           </select>
@@ -45,33 +45,35 @@ function InputUtente({ onSubmit }) {
         <div>
           <label htmlFor="">Cause</label>
           <select name="cause" id="" className="user-input">
-            <option value="all">All</option>
-            <option value="assault">Assault</option>
-            <option value="drowning">Drowing</option>
-            <option value="falls">Falls</option>
-            <option value="intent-self-harm">Intentional self-harm</option>
-            <option value="traffic-crash">Motor vehicle traffic crashes</option>
-            <option value="work">Work</option>
-            <option value="car-occupant">Car occupant</option>
-            <option value="intentional">Intentional</option>
-            <option value="pedestrian">Pedestrian</option>
+            <option value="All">All</option>
+            <option value="Assault">Assault</option>
+            <option value="Drowing">Drowing</option>
+            <option value="Falls">Falls</option>
+            <option value="Intentional self-harm">Intentional self-harm</option>
+            <option value="Motor vehicle traffic crashes">
+              Motor vehicle traffic crashes
+            </option>
+            <option value="Work">Work</option>
+            <option value="Car occupant">Car occupant</option>
+            <option value="Intentional">Intentional</option>
+            <option value="Pedestrian">Pedestrian</option>
           </select>
         </div>
         <div>
           <label htmlFor="">Population</label>
           <select name="population" id="" className="user-input">
-            <option value="maori">Maori</option>
-            <option value="whole_pop">Whole pop</option>
-            <option value="children">Children</option>
+            <option value="Maori">Maori</option>
+            <option value="Whole pop">Whole pop</option>
+            <option value="Children">Children</option>
           </select>
         </div>
         <div>
           <label htmlFor="">Age</label>
           <select name="age" id="" className="user-input">
-            <option value="0-14">0-14 years</option>
-            <option value="0-74">0-74 years</option>
-            <option value="75+">75+ years</option>
-            <option value="all_ages">All ages</option>
+            <option value="0-14 years">0-14 years</option>
+            <option value="0-74 years">0-74 years</option>
+            <option value="75+ years">75+ years</option>
+            <option value="All ages">All ages</option>
           </select>
         </div>
       </div>
@@ -83,6 +85,6 @@ function InputUtente({ onSubmit }) {
         />
       </div>
     </form>
-  )
+  );
 }
-export default InputUtente
+export default InputUtente;
