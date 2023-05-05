@@ -1,11 +1,8 @@
 # API
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from typing import Union
 
 import pandas as pd
-
-import uvicorn
 
 # machine learning
 from sklearn.linear_model import LogisticRegression
