@@ -1,5 +1,6 @@
 # API
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from typing import Union
 
 import pandas as pd
@@ -132,6 +133,16 @@ acc_knn = round(knn.score(X_train, Y_train) * 100, 2)
 # uvicorn api:app --reload --host 0.0.0.0
 
 app = FastAPI()
+
+origins = ["*"]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/GetResponse")
 async def read_root(age: str, cause: str, data_value: int, lower_CI: int, period: int, population: str, units: str, upper_CI: int): 
